@@ -1,0 +1,9 @@
+﻿  main.cpp
+  roster.cpp
+  student.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\umisf\Desktop\WGU\Scripting and Programming Applications\Thompson C867 PA\student.cpp(28): warning C4172: returning address of local variable or temporary: completeArray
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Thompson C867 PA.vcxproj -> C:\Users\umisf\Desktop\WGU\Scripting and Programming Applications\Thompson C867 PA\Release\Thompson C867 PA.exe
